@@ -5,17 +5,23 @@ To write a python program for getting the word count from the contents of a file
 PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
-### Step 1: import os
+### Step 1: 
+import os
 
-### Step 2: Open file using open().
+### Step 2:
+ Open file using open().
 
-### Step 3: Use for loop
+### Step 3:
+ Use for loop
 
-### Step 4: Use len to count number of words.
+### Step 4:
+ Use len to count number of words.
 
-### Step 5: Give print.
+### Step 5:
+ Give print.
 
-### Step 6: End of the program
+### Step 6:
+ End of the program
 
 ## PROGRAM:
 ```python
